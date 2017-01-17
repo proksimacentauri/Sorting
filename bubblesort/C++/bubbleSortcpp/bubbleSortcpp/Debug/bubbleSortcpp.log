@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  bubbleSortcpp.cpp
+c:\users\donna\desktop\github\gymnasiearbete\bubble_sort\c++\bubblesortcpp\bubblesortcpp\bubblesortcpp.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\Donna\Desktop\github\gymnasiearbete\bubble_sort\C++\bubbleSortcpp\Debug\bubbleSortcpp.exe not found or not built by the last incremental link; performing full link
+  bubbleSortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\bubble_sort\C++\bubbleSortcpp\Debug\bubbleSortcpp.exe
+  bubbleSortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\bubble_sort\C++\bubbleSortcpp\Debug\bubbleSortcpp.pdb (Full PDB)

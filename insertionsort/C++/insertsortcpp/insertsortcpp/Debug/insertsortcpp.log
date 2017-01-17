@@ -1,0 +1,6 @@
+﻿  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  insertsortcpp.cpp
+c:\users\donna\desktop\github\gymnasiearbete\insert_sort\c++\insertsortcpp\insertsortcpp\insertsortcpp.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  insertsortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\insert_sort\C++\insertsortcpp\Debug\insertsortcpp.exe
+  insertsortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\insert_sort\C++\insertsortcpp\Debug\insertsortcpp.pdb (Full PDB)

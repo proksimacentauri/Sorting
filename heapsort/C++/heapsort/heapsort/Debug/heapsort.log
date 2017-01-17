@@ -1,0 +1,4 @@
+﻿  heapsort.cpp
+c:\users\donna\desktop\github\gymnasiearbete\heapsort\c++\heapsort\heapsort\heapsort.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  heapsort.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\heapsort\C++\heapsort\Debug\heapsort.exe
+  heapsort.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\heapsort\C++\heapsort\Debug\heapsort.pdb (Full PDB)

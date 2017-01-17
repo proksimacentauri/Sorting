@@ -1,0 +1,4 @@
+﻿  mergesortcpp.cpp
+c:\users\donna\desktop\github\gymnasiearbete\mergesort\c++\mergesortcpp\mergesortcpp\mergesortcpp.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  mergesortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\mergesort\C++\mergesortcpp\Debug\mergesortcpp.exe
+  mergesortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\mergesort\C++\mergesortcpp\Debug\mergesortcpp.pdb (Full PDB)

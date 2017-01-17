@@ -1,0 +1,4 @@
+﻿  selectionsortcpp.cpp
+c:\users\donna\desktop\github\gymnasiearbete\selection_sort\c++\selectionsortcpp\selectionsortcpp\selectionsortcpp.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  selectionsortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\selection_sort\C++\selectionsortcpp\Debug\selectionsortcpp.exe
+  selectionsortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\selection_sort\C++\selectionsortcpp\Debug\selectionsortcpp.pdb (Full PDB)

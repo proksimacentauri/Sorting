@@ -1,0 +1,4 @@
+﻿  quicksortcpp.cpp
+c:\users\donna\desktop\github\gymnasiearbete\quicksort\c++\quicksortcpp\quicksortcpp\quicksortcpp.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  quicksortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\quicksort\C++\quicksortcpp\Debug\quicksortcpp.exe
+  quicksortcpp.vcxproj -> C:\Users\Donna\Desktop\github\gymnasiearbete\quicksort\C++\quicksortcpp\Debug\quicksortcpp.pdb (Full PDB)
